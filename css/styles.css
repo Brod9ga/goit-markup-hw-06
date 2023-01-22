@@ -493,11 +493,11 @@ display: flex;
    
 }
 .footer-inf{
-    max-width: max-content;
+    /* max-width: max-content; */
 }
 .footer-wrap{
     display: flex;
-    gap: 120px;
+    gap: 24px;
 }
 .main-prtf{
     padding-top: 96px;
